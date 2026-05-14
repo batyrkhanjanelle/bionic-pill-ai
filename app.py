@@ -38,7 +38,7 @@ Original file is located at
 *установка библиотек*
 """
 
-!pip install ipywidgets seaborn scikit-learn
+
 
 """*импорты*"""
 
